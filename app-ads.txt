@@ -1,8 +1,8 @@
-939353#Google#
+#Google#
  
 google.com, pub-1912561085588771, DIRECT, f08c47fec0942fa0
 google.com, pub-4537341636281998, DIRECT, f08c47fec0942fa0
-
+ 
  
 #Media net#
  
@@ -23,7 +23,7 @@ adform.com, 2742, RESELLER
 pubmatic.com, 161771, RESELLER, 5d62403b186f2ace
 freewheel.tv, 1592517, RESELLER
 freewheel.tv, 1592524, RESELLER
-
+ 
  
 #Fluct#
  
@@ -87,7 +87,7 @@ rhythmone.com, 4201299756, RESELLER, a670c89d4a324e47
 smartadserver.com, 3117, RESELLER
 startapp.com, smt, RESELLER
 xad.com, 241, RESELLER, 81cbf0a75a5e0e9a
-
+ 
 #Smart Adserver#
 pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
 pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
@@ -113,6 +113,9 @@ smartadserver.com, 4071, DIRECT
 smartadserver.com, 4073, DIRECT
 #MXN
 smartadserver.com, 4074, DIRECT
-
+#Azerion
+improvedigital.com, 2301, RESELLER
+#meta
+facebook.com, 160280386238251, DIRECT, c3e20eee3f780d68
 wortise.com, f3c9ac38-3bb3-458f-acee-29a8b62b1bcc, DIRECT
 wortise.com, c44ddb94-ab0d-42c3-89d2-f0a20262d36a, DIRECT
